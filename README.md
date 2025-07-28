@@ -1,3 +1,6 @@
+Note, the dexscreener.com domain is cloudflare protected,
+meaning some requests will fail to get access to an unprotected endpoint, @benedixxion telegram if you need a help with endpoint.
+
 # DexScreener Scraper
  What it does
 
