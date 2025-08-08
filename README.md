@@ -84,3 +84,8 @@ The JSON output can be consumed by trading bots, analyzers, or other systems tha
 
 ## Contacts 
 If you are looking for a dex scraper right now, write to me on telegram @benedixxion. The scraper takes up a minimum of space, approximately 20 KB, does not overload your computer at all, and I guarantee that there is no malicious code in it.
+
+## Donations
+Donations are appreciated! (Solana)
+
+BAs1wwmoNjxEwNAPCdyax5kzDVkEU53eUZWSeeVUKnYi
