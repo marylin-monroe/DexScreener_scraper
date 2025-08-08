@@ -45,7 +45,28 @@ BrG44HdsEhzapvs8bEqzvkq4egwevS3fRE6ze2ENo6S8
 🔄 Switched mode
 ```
 
-Results are saved to `trending_tokens.json` with complete token data for further analysis.
+## Data Structure
+Results are saved to `trending_tokens.json`:
+```json
+{
+  "tokens": [
+    {
+      "pairAddress": "...",
+      "symbol": "...",
+      "price": "$0.00269320",
+      "volume": 6900000.0,
+      "price_change_24h": "58,983%",
+      "txns": 89966,
+      "liquidity": 184000.0,
+      "mcap": 2600000.0,
+      "source_page": "trending",
+      "scraped_at": "2025-07-28T17:53:59.710872"
+    }
+       ],
+  "last_updated": "2025-07-28T17:54:01.807950",
+  "total_tokens": 9
+}
+```
 
 ## Schedule
 - Runs continuously
