@@ -90,3 +90,7 @@ If you are looking for a dex scraper right now, write to me on telegram @benedix
 Donations are appreciated! (Solana)
 
 BAs1wwmoNjxEwNAPCdyax5kzDVkEU53eUZWSeeVUKnYi
+
+## Updates
+11/08/2025
+changed from pairAddress to token mint address, in the structure itself the name is pairAddress, but in fact inside there is a token mint address - it does not affect the work in any way, you will receive in the structure exactly the token address, but if you wish I can display both pairAddress and token address, as you prefer!
