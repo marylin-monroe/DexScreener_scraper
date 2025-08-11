@@ -52,7 +52,7 @@ Results are saved to `trending_tokens.json`:
 {
   "tokens": [
     {
-      "pairAddress": "...",
+      "mintAddress": "...",
       "symbol": "...",
       "price": "$0.00269320",
       "volume": 6900000.0,
