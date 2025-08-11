@@ -38,10 +38,11 @@ python main.py
 ## Output
 The scraper logs contract addresses of tokens that passed all filters:
 ```
-6YGmqZ8i3b4TrDDh5mqComviPUKpwGWTyfFNoWfctech
-7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
+CMx7yon2cLzHcXqgHsKJhuU3MmME6noWLQk2rAycBAGS
+ESBCnCXtEZDmX8QnHU6qMZXd9mvjSAZVoYaLKKADBAGS
+HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk
 🔄 Switched mode
-BrG44HdsEhzapvs8bEqzvkq4egwevS3fRE6ze2ENo6S8
+9GtvcnDUvGsuibktxiMjLQ2yyBq5akUahuBs8yANbonk
 🔄 Switched mode
 ```
 
