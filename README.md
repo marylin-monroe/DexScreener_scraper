@@ -83,8 +83,9 @@ Results are saved to `trending_tokens.json`:
 ## Integration
 The JSON output can be consumed by trading bots, analyzers, or other systems that need filtered Solana token data with high-growth potential.
 
-## Contacts 
+## Contacts and price
 If you are looking for a dex scraper right now, write to me on telegram @benedixxion. The scraper takes up a minimum of space, approximately 20 KB, does not overload your computer at all, and I guarantee that there is no malicious code in it.
+Price for full access to the code $20.
 
 ## Donations
 Donations are appreciated! (Solana)
