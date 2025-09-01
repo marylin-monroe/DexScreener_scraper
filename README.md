@@ -96,3 +96,7 @@ BAs1wwmoNjxEwNAPCdyax5kzDVkEU53eUZWSeeVUKnYi
 ## Updates
 11/08/2025
 changed from pairAddress to token mint address, in the structure itself the name is pairAddress, but in fact inside there is a token mint address - it does not affect the work in any way, you will receive in the structure exactly the token address, but if you wish I can display both pairAddress and token address, as you prefer!
+
+01/09/2025
+This screener is NOT for price monitoring. Cloudflare-protected services such as dexscreener.com do not have endpoints for connecting to websockets. This screener is for monitoring the most active tokens on the Solana network.
+Moreover, you can increase the monitoring cycle from 5 minutes to 30 seconds or even less, if you wish. In theory, it can be reduced to 1 second, but even so, this screener is not suitable for price monitoring, as a websocket connection will be much more accurate and faster. Either way, you will need a third-party service with a paid subscription for price monitoring.
